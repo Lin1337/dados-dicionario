@@ -1,0 +1,1332 @@
+{
+    "dic": {
+        "head": [
+            "W"
+        ],
+        "entry": [
+            {
+                "id": [
+                    "w:1"
+                ],
+                "n": [
+                    "1"
+                ],
+                "type": [
+                    "hom"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "W"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "def": [
+                            "(o _vê_ dobrado)\nÉ letra estranha ao alphabeto português; mas emprega-se geralmente em algumas palavras, derivadas de certos nomes próprios estrangeiros, especialmente ingleses e alemães.\nEm palavras derivadas do alemão, sôa como _v_; e, nas derivadas do inglês, como _u_. Em português, poderia portanto substituir-se respectivamente por essas duas letras.\n"
+                        ]
+                    },
+                    {
+                        "ast": [
+                            "1"
+                        ],
+                        "usg": [
+                            {
+                                "_": "Chím.",
+                                "type": [
+                                    "dom"
+                                ]
+                            }
+                        ],
+                        "def": [
+                            "\nAbrev. de _tungstênio_.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wagneriano"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wagneriano"
+                        ],
+                        "phon": [
+                            {
+                                "_": "va",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "adj."
+                        ],
+                        "def": [
+                            "\nRelativo a Wagner, compositor musical: _escola wagneriana_.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wagnerismo"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wagnerismo"
+                        ],
+                        "phon": [
+                            {
+                                "_": "va",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nSystema musical de Wagner.\nProcesso ou systema de Wagner, em Música.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wagnerita"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wagnerita"
+                        ],
+                        "phon": [
+                            {
+                                "_": "vagne",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nPhosphato de magnésia.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do al. _Wagner_, n. p.)",
+                        "ori": [
+                            "al"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wagnerite"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wagnerite"
+                        ],
+                        "phon": [
+                            {
+                                "_": "vagne",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nPhosphato de magnésia.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do al. _Wagner_, n. p.)",
+                        "ori": [
+                            "al"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wagnerito"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wagnerito"
+                        ],
+                        "phon": [
+                            {
+                                "_": "vagne",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nPhosphato de magnésia.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do al. _Wagner_, n. p.)",
+                        "ori": [
+                            "al"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wahlembérgia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wahlembérgia"
+                        ],
+                        "phon": [
+                            {
+                                "_": "valem",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas campanuláceas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do al. _Wahlemberg_, n. p.)",
+                        "ori": [
+                            "al"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "waldstêinia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Waldstêinia"
+                        ],
+                        "phon": [
+                            {
+                                "_": "val",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas rosáceas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do al. _Waldstein_, n. p.)",
+                        "ori": [
+                            "al"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "walkéria"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Walkéria"
+                        ],
+                        "phon": [
+                            {
+                                "_": "uòlké",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de musgos.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do ing. _Walker_, n. p.)",
+                        "ori": [
+                            "ing"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "walthéria"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Walthéria"
+                        ],
+                        "phon": [
+                            {
+                                "_": "val",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas buttneriáceas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do al. _Walther_, n. p.)",
+                        "ori": [
+                            "al"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "warwicita"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Warwicita"
+                        ],
+                        "phon": [
+                            {
+                                "_": "uaru",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "usg": [
+                            {
+                                "_": "Miner.",
+                                "type": [
+                                    "dom"
+                                ]
+                            }
+                        ],
+                        "def": [
+                            "\nVariedade de óxydo de manganés.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do ingl. _Warwick_, n. p.)",
+                        "ori": [
+                            "ingl"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "warwicite"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Warwicite"
+                        ],
+                        "phon": [
+                            {
+                                "_": "uaru",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "usg": [
+                            {
+                                "_": "Miner.",
+                                "type": [
+                                    "dom"
+                                ]
+                            }
+                        ],
+                        "def": [
+                            "\nVariedade de óxydo de manganés.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do ingl. _Warwick_, n. p.)",
+                        "ori": [
+                            "ingl"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "warwicito"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Warwicito"
+                        ],
+                        "phon": [
+                            {
+                                "_": "uaru",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "usg": [
+                            {
+                                "_": "Miner.",
+                                "type": [
+                                    "dom"
+                                ]
+                            }
+                        ],
+                        "def": [
+                            "\nVariedade de óxydo de manganés.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do ingl. _Warwick_, n. p.)",
+                        "ori": [
+                            "ingl"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "watsónia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Watsónia"
+                        ],
+                        "phon": [
+                            {
+                                "_": "uòt",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas irídeas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do ingl. _Watson_, n. p.)",
+                        "ori": [
+                            "ingl"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wébbia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wébbia"
+                        ],
+                        "phon": [
+                            {
+                                "_": "vé",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas synanthéreas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do al. _Webb_, n. p.)",
+                        "ori": [
+                            "al"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wellingtónia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wellingtónia"
+                        ],
+                        "phon": [
+                            {
+                                "_": "uèling",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nCorpulentíssima árvore conífera da Califórnia, onde attinge mais de cem metros de altura e déz de diâmetro.\n(Pertence ao gênero _sequoia gigantea_, Torr.)\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do ingl. _Wellington_, n. p.)",
+                        "ori": [
+                            "ingl"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wernerita"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wernerita"
+                        ],
+                        "phon": [
+                            {
+                                "_": "ver",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "usg": [
+                            {
+                                "_": "Miner.",
+                                "type": [
+                                    "dom"
+                                ]
+                            }
+                        ],
+                        "def": [
+                            "\nNome de vários silicatos de alumina e cal.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do al. _Werner_, n. p.)",
+                        "ori": [
+                            "al"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wernerite"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wernerite"
+                        ],
+                        "phon": [
+                            {
+                                "_": "ver",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "usg": [
+                            {
+                                "_": "Miner.",
+                                "type": [
+                                    "dom"
+                                ]
+                            }
+                        ],
+                        "def": [
+                            "\nNome de vários silicatos de alumina e cal.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do al. _Werner_, n. p.)",
+                        "ori": [
+                            "al"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wernerito"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wernerito"
+                        ],
+                        "phon": [
+                            {
+                                "_": "ver",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "usg": [
+                            {
+                                "_": "Miner.",
+                                "type": [
+                                    "dom"
+                                ]
+                            }
+                        ],
+                        "def": [
+                            "\nNome de vários silicatos de alumina e cal.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do al. _Werner_, n. p.)",
+                        "ori": [
+                            "al"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wesleyano"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wesleyano"
+                        ],
+                        "phon": [
+                            {
+                                "_": "uès",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nSectário do methodismo.\nMethodista.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do ingl. _Wesley_, n. p.)",
+                        "ori": [
+                            "ingl"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "whígtia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Whígtia"
+                        ],
+                        "phon": [
+                            {
+                                "_": "uíg",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas escrofularíneas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do ingl. _Wight_, n. p.)",
+                        "ori": [
+                            "ingl"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "whist"
+                ],
+                "chaveta": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Whist"
+                        ],
+                        "phon": [
+                            {
+                                "_": "uíst",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nEspécie de jôgo de cartas, análogo ao da bisca.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    "(T. ingl.)"
+                ]
+            },
+            {
+                "id": [
+                    "wiclefismo"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wiclefismo"
+                        ],
+                        "phon": [
+                            {
+                                "_": "uí",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nDoutrina religiosa do heresiarcha Wiclef, segundo o qual a Igreja Romana não é superior ás demais, o clero não deve têr bens temporaes e o desregramento dos padres faz-lhes perder todos os poderes espirituaes.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wiclefista"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wiclefista"
+                        ],
+                        "phon": [
+                            {
+                                "_": "uik",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nSectário do wiclefismo.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "widdringtónia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Widdringtónia"
+                        ],
+                        "phon": [
+                            {
+                                "_": "uid",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas coníferas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do ingl. _Widrington_, n. p.)",
+                        "ori": [
+                            "ingl"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wiedmânnia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wiedmânnia"
+                        ],
+                        "phon": [
+                            {
+                                "_": "vid",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nGênero de plantas labiadas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do al. _Wiedemann_, n. p.)",
+                        "ori": [
+                            "al"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wigândia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wigândia"
+                        ],
+                        "phon": [
+                            {
+                                "_": "uig",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas hydroleáceas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do ing. _Wigand_, n. p.)",
+                        "ori": [
+                            "ing"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wilbrândia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wilbrândia"
+                        ],
+                        "phon": [
+                            {
+                                "_": "vilb",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas cucurbitáceas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do al. _Wilbrand_, n. p.)",
+                        "ori": [
+                            "al"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wilsónia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wilsónia"
+                        ],
+                        "phon": [
+                            {
+                                "_": "uil",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas convolvuláceas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do ingl. _Wilson_, n. p.)",
+                        "ori": [
+                            "ingl"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wistéria"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wistéria"
+                        ],
+                        "phon": [
+                            {
+                                "_": "vis",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas leguminosas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do al. _Wister_, n. p.)",
+                        "ori": [
+                            "al"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "woodwárdia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Woodwárdia"
+                        ],
+                        "phon": [
+                            {
+                                "_": "udu",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas polypódeas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do ingl. _Woodward_, n. p.)",
+                        "ori": [
+                            "ingl"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "wríghtia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Wríghtia"
+                        ],
+                        "phon": [
+                            {
+                                "_": "ráitia",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas apocýneas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do ingl. _Wright_, n. p.)",
+                        "ori": [
+                            "ingl"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

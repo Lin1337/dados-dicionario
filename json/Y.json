@@ -1,0 +1,271 @@
+{
+    "dic": {
+        "head": [
+            "Y"
+        ],
+        "entry": [
+            {
+                "id": [
+                    "y:1"
+                ],
+                "n": [
+                    "1"
+                ],
+                "type": [
+                    "hom"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Y"
+                        ],
+                        "phon": [
+                            {
+                                "_": "úpsilon,úpsilo",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nVigésima quarta letra do alphabeto português, só tolerável hoje em algumas palavras que procedem do grego ou de certas línguas estrangeiras.\nUma das incógnitas, (em problemas de Mathemática).\n"
+                        ]
+                    },
+                    {
+                        "ast": [
+                            "1"
+                        ],
+                        "def": [
+                            "\nComo letra numeral, valeu 150 e, com um til por cima, 150:000.\nÉ vulgar o uso do _y_ em palavras brasileiras de origem tupi e em muitos nomes geográphicos e ethnográphicos da América. Explicam o phenómeno com o facto de que em taes casos, o _i_ não representaria o som que primitivamente se convencionou representar por _y_.\nE assim também, na antiga orthogr. port., era vulgar o uso do _y_ entre vogaes ou no fim de palavras, adeante de outra vogal: _meyo_, _pay_, _rey_, etc.; e explicava-se êsse uso com o facto de que tal letra não representava o valor de _i_, mas de dois _ii_. Ora dês que o _y_, no actual estado da língua, só póde soar como _i_, nada justifica o emprêgo delle em palavras que não procedam do grego; e ainda nestas, o seu emprêgo seria vantajosamente eliminado, seguindo-se bons exemplos da Italia e da Espanha.\n(O _y_ é falsamente denominado _i grego_: não existe no alphabeto grego; é convenção latina, para representação do _úpsilon_, representação incoherente, porque os Latinos umas vezes representaram o _úpsilon_, por _y_, outras por _u_, e outras por _i_)\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "yorkino"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Yorkino"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "adj."
+                        ],
+                        "def": [
+                            "\nRelativo a York.\n"
+                        ]
+                    },
+                    {
+                        "gramGrp": [
+                            "M."
+                        ],
+                        "def": [
+                            "\nAquelle que é natural de York.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "york-madeira"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "York-Madeira"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nEspécie de videira hýbrida.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "ýpsilon"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Ýpsilon"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nO mesmo que _úpsilon_.\nDesignação da letra _Y_.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "ytterbite"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Ytterbite"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nDesignação primitiva da _gadolinite_.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Ytterby_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "ýttria"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Ýttria"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nÓxydo de ýttrio.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "ýttrico"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Ýttrico"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "adj."
+                        ],
+                        "def": [
+                            "\nRelativo ao ýttrio.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "ýttrio"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Ýttrio"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nMetal terroso.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Do rad. de _ytterbite_)",
+                        "ori": [
+                            "rad"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "yttrotantalito"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Yttrotantalito"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nTantalato de ýttrio.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    "(De _ýttrio_ + _tantalito_)"
+                ]
+            }
+        ]
+    }
+}

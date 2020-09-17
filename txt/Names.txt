@@ -1,0 +1,647 @@
+& *Abdala*,
+Pai de Mafoma.
+(Ár. _Abd-allah_)
+
+& *Abdelcáder*,
+Guerreiro marroquino.
+(Ár. _Abd-el-kádir_)
+
+& *Abdelcádir*,
+Guerreiro marroquino.
+(Ár. _Abd-el-kádir_)
+
+& *Achêmenes*, (_quê_)
+Primeiro Rei da Pérsia.
+(Lat. _Archaémenes_[1])
+
+& *Adónide*,
+Formoso príncipe mythológico.
+(Lat. _Adónis_)
+
+& *Adónis*,^2
+Formoso príncipe mythológico.
+(Lat. _Adónis_)
+
+& *Agáthias*,
+Historiador grego.
+(Lat. _Agáthias_)
+
+& *Agáthodes*,
+(não *Agatódes*)
+Antigo Rei da Sicília.
+(Lat. _Agáthodes_)
+
+& *Agátias*,
+Historiador grego.
+(Lat. _Agáthias_)
+
+& *Agátodes*,
+(não *Agatódes*)
+Antigo Rei da Sicília.
+(Lat. _Agáthodes_)
+
+& *Ágave*,
+Nome de vários personagens mythológicos.
+(Lat. _Ágave_)
+
+& *Aires*,^2
+(não *Ayres*)
+Nome de homem.
+(Do nome medieval _Árias_ < _Airas_ < _Aires_)
+
+& *Alcâmenes*,
+Estatuário grego.
+(Lat. _Alcâmenes_)
+
+& *Alfieri*, (_é_)
+Célebre poéta italiano do séc. XVIII.
+
+& *Amásis*,
+Antigo Rei do Egýpto.
+(Lat. _Amásis_)
+
+& *Amenótep*,
+Nome de vários Reis do antigo Egýpto.
+
+& *Amphílocho*, (_co_)
+Escritor atheniense.
+(Lat. _Amphílochus_)
+
+& *Anábasis*,
+Obra de Xenophonte.
+(Lat. _Anábasis_)
+
+& *Anaxímenes*, (_csi_)
+Philosopho de Mileto.
+(Lat. _Anaxímenes_)
+
+& *Ândersen*,
+Famoso poéta dinamarquês.
+
+& *Andrómaca*,
+Mulhér de Heitor, filho de Príamo, Rei de Tróia.
+(Lat. _Andrómacha_)
+
+& *Andrómacha*, (_ca_)
+Mulhér de Heitor, filho de Príamo, Rei de Tróia.
+(Lat. _Andrómacha_)
+
+& *Andronico*, (_ní_)
+Poéta latino.
+(Lat. _Andronicus_)
+
+& *Anfíloco*,^2
+Escritor atheniense.
+(Lat. _Amphílochus_)
+
+& *Aquêmenes*,
+Primeiro Rei da Pérsia.
+(Lat. _Archaémenes_)
+
+& *Antero*,
+(e não *Anthero*)
+Nome de homem.
+(Lat. _Anterus_. Cf. Roquete, _Diccion. Port. Fr._)
+
+& *Antíocho*, (_co_)
+(e não *Antiôco*)
+Nome de vários Reis da Sýria.
+
+& *Antíoco*,
+(e não *Antiôco*)
+Nome de vários Reis da Sýria.
+
+& *Ântipas*,
+(e não *Antípas*)
+Cognome daquelle Herodes, tetrarcha da Galileia, que, apaixonado pela filha de Herodíades, autorizou a decapitação de San-João Baptista.
+(Lat. _Ântipas_)
+
+& *Antípater*,
+General de Alexandre Magno.
+(Lat. _Antípater_)
+
+& *Appollodoro*,
+(_dó_ e não _ló_)
+Gramático atheniense.
+(Lat. _Appollodórus_)
+
+& *Apolodoro*,
+(_dó_ e não _ló_)
+Gramático atheniense.
+(Lat. _Appollodórus_)
+
+& *Apuleio*,
+Escritor latino.
+(Lat. _Apuleius_)
+
+& *Archílocho*, (_ar-quí-lo-co_)
+Antigo poeta grego.
+(Lat. _Archílocus_)
+
+& *Argensola*, (_só_)
+Nome de dois antigos literatos espanhóis.
+
+& *Argo*,
+Indivíduo que, segundo a Mythologia, tinha cem olhos.
+Nome do navio, em que os Gregos foram á conquista do Vello-de-Oiro.
+(Lat. _Argos_)
+
+& *Argos*,
+Indivíduo que, segundo a Mythologia, tinha cem olhos.
+Nome do navio, em que os Gregos foram á conquista do Vello-de-Oiro.
+(Lat. _Argos_)
+
+& *Aristobulo*,
+(não *Aristóbulo*)
+Nome de dois Reis da Judeia.
+(Lat. _Aristobúlus_)
+
+& *Aristogíton*,
+Antigo conspirador atheniense.
+(Lat. _Aristogíton_)
+
+& *Aristómenes*,
+Escritor grego.
+(Lat. _Aristómenes_)
+
+& *Aristonico*, (_ní_)
+Principe persa.
+(Lat. _Aristonícus_)
+
+& *Arquíloco*,
+Antigo poeta grego.
+(Lat. _Archílocus_)
+
+& *Arsínoe*,
+Uma das filhas de Atlante, segundo a Mythologia.
+(Lat. _Arsínoe_)
+
+& *Astíages*,
+Rei da Média, avô de Cyro.
+(Lat. _Astýages_)
+
+& *Astýages*,
+Rei da Média, avô de Cyro.
+(Lat. _Astýages_)
+
+& *Átropos*,^2
+Personagem mythológica, uma das Parcas.
+(Lat. _Átropos_)
+
+& *Averróes*,
+(não *Avérroes*, como alguns mandam lêr)
+Philósopho árabe, nascido em Córdova.--_Avérroes_ seria latinização injustificável de um nome árabe, cuja prosódia não é preciso alterar.
+
+& *Baedeker*, (_bédequer_)
+Autor de um famoso guia de viajantes.
+
+& *Bagôas*,
+Nome de vários persas.
+(Lat. _Bagôas_)
+
+& *Beccaria*, (_cari_)
+Célebre publicista italiano.
+
+& *Beresford*, (_bé_)
+General inglês, generalíssimo do exército de Portugal em 1809.
+
+& *Bismarck*,
+(*Bismarque*, não *Bismárque*)
+Estadista prussiano.
+
+& *Brígida*,
+(e não *Brízida*, como escreveu Garrett)
+Nome de mulhér.
+(Lat. eccles. _Brígita_)
+
+& *Brás*,
+(não *Braz*)
+Nome de homem.
+(Lat. _Blásius_)
+
+& *Canova*, (_nó_)
+Célebre escultor italiano.
+
+& *Cânovas*,
+Nome de um finado estadista espanhol.
+
+& *Ciaxares*,
+(não *Ciáxares*)
+Rei dos Médos.
+(Lat. _Cyaxáres_)
+
+& *Cleopatra*, (_pá_)
+Raínha do Egypto, no séc. I antes de Christo.--_Cleópatra_ é pronúncia usual, mas errónea.
+(Lat. _Cleopátra_)
+
+& *Cyaxares*,
+(não *Ciáxares*)
+Rei dos Médos.
+(Lat. _Cyaxáres_)
+
+& *Dalila*,
+(não *Dálila*)
+Mulhér hebreia, amante de Sansão.
+(Lat. _Dalíla_)
+
+& *Dâmocles*,
+(não *Damócles*)
+Cortesão de Dionýsio, tyranno de Syracusa.
+(Lat. _Dâmocles_)
+
+& *Debora*, (_bó_)
+(e não *Débora*)
+Prophetisa, que governou os Hebreus 40 annos, e a quem se attribue o célebre cantico, que se lê na _Bíblia_, (_Juízes_, cap. V).
+
+& *Demódoco*,
+Célebre tangedor de lyra.
+(Lat. _Demódocus_)
+
+& *Desdêmona*,
+Personagem de uma tragédia de Shakespeare.--Os Ingleses dizem _Desdemóna_; mas o nome é italiano, e os Italianos dizem _Desdêmona_.
+
+& *Dinora*,
+(não *Dinorah*)
+Nome de mulhér.
+
+& *Dioníso*,
+(não *Diónyso*)
+Nome, que os Gregos davam a Baccho.
+(Lat. _Dionýsus_)
+
+& *Dionýso*,
+(não *Diónyso*)
+Nome, que os Gregos davam a Baccho.
+(Lat. _Dionýsus_)
+
+& *Édipo*,^2
+(e não *Edípo*)
+Personagem mythológico, que decifrou o enigma da Esphynge.
+(Lat. _Oédipus_)
+
+& *Elói*,
+(e não *Elóy*)
+Nome de homem.
+(Lat. _Elogius_. Cf. Roquete, _Diccion. Port. Fr._)
+
+& *Empédocles*,
+Philosopho antigo.
+(Lat. _Empédocles_)
+
+& *Encélado*,^2
+Gigante que, segundo a Mythologia, foi aprisionado por Júpiter.
+(Lat. _Encéladus_)
+
+& *Éolo*,^2
+Deus dos ventos, segundo a Mythologia.
+(Lat. _Aéolus_)
+
+& *Érebo*,^2
+Divindade infernal, segundo a Mythologia.
+(Lat. _Érebus_)
+
+& *Eróstrato*,
+Incendiário do templo de Diana em Épheso.
+
+& *Éschilo*, (_qui_)
+Poéta trágico da Grécia antiga.
+(Lat. _Aéschilus_)
+
+& *Éschines*, (_qui_)
+Orador atheniense, rival de Demósthenes.
+(Lat. _Aéschines_)
+
+& *Espártaco*,
+Gladiador thrácio, chefe de uma revolta na antiga Roma.
+(Lat. _Spártacus_)
+
+& *Ésquilo*,
+Poéta trágico da Grécia antiga.
+(Lat. _Aéschilus_)
+
+& *Ésquines*,
+Orador atheniense, rival de Demósthenes.
+(Lat. _Aéschines_)
+
+& *Estrabão*,^2
+(e não *Strabão*)
+Notável geógrapho latino.
+(Lat. _Strabo_)
+
+& *Etéocles*,
+(e não *Eteócles*)
+Filho de Édipo.
+(Lat. _Etéocles_)
+
+& *Eurípides*,
+Grande poéta trágico da Grécia antiga.
+(Lat. _Eurípides_)
+
+& *Gengiscão*,
+(e não *Gengis-khan* e, ainda menos, *Gengiskan*)
+Célebre príncipe mongol, que no século dominou territórios, que se estendiam do Mar-Negro ao Mar da China.
+
+& *Eduviges*,
+(e não *Hedwiges*)
+Nome de mulhér. Cf. Roquete, _Diccion. Port. Fr._
+
+& *Hécate*,
+Outro nome da deusa Diana.
+(Lat. _Hécate_)
+
+& *Heduviges*,
+(e não *Hedwiges*)
+Nome de mulhér. Cf. Roquete, _Diccion. Port. Fr._
+
+& *Heliogábalo*,
+(e não *Heliogabálo*)
+Imperador romano.
+(Lat. _Heliogábalus_)
+
+& *Heródoto*,
+Célebre historiador grego.
+(Lat. _Heródotus_)
+
+& *Hípias*,
+(e não *Hipías*)
+Filho de Pisístrato.
+(Lat. _Híppias_)
+
+& *Híppias*,
+(e não *Hipías*)
+Filho de Pisístrato.
+(Lat. _Híppias_)
+
+& *Hortênsia*,^2
+(e nunca *Hortense* e, ainda menos, *Hortence*)
+Nome de mulhér.
+(Lat. _Hortensia_)
+
+& *Ifigênia*,
+(e não *Ephigênia*)
+Nome de mulhér.--_Ifigênia_ é a pronúncia usual, mas a exacta seria _Ifigenía_.
+(Lat. _Ifigenia_, do gr. _Iphigeneia_)
+
+& *Ínacho*, (_co_)
+Primeiro Rei de Argos.
+(Lat. _Ínachus_)
+
+& *Ínaco*,
+Primeiro Rei de Argos.
+(Lat. _Ínachus_)
+
+& *Inês*,
+(e não *Ignêz*)
+Nome de mulhér.
+(Do lat. _Agnes_)
+
+& *Iphigênia*,
+(e não *Ephigênia*)
+Nome de mulhér.--_Ifigênia_ é a pronúncia usual, mas a exacta seria _Ifigenía_.
+(Lat. _Ifigenia_, do gr. _Iphigeneia_)
+
+& *Isócrates*,
+Rhetórico atheniense.
+(Lat. _Isócrates_)
+
+& *Jaime*,
+(e não *Jayme*)
+Nome de homem.
+(Fr. _Jame_, ingl. _James_)
+
+& *Karénina*,
+(e não *Karenína*)
+Heroina de um romance de Tolstoi.
+
+& *Láchese*, (_que_)
+Uma das três Parcas.
+(Lat. _Lachesis_)
+
+& *Láchesis*, (_que_)
+(V. _Láchese_)
+
+& *Lâmpsaco*,
+Antiga cidade da Mysia, sôbre o Hellesponto.
+(Lat. _Lâmpsacum_)
+
+& *Laódice*,
+Nome de várias mulhéres célebres, na antiguidade.
+(Lat. _Laódice_)
+
+& *Láquese*,
+Uma das três Parcas.
+(Lat. _Lachesis_)
+
+& *Leónidas*,
+Celebre general lacedemónio, que foi morto nas Thermópylas.
+(Lat. _Leónidas_)
+
+& *Longímano*,^2
+(e não *Longimâno*)
+Sobrenome de Artaxerxer, Rei da Pérsia.
+(Lat. _Longímanus_)
+
+& *Luís*,^2
+(e não *Luiz*)
+Nome de homem.
+(B. lat. _Aloisius_)
+
+& *Médicis*,
+Appellido de uma nobre e célebre família florentina.
+
+& *Mégara*,
+Antiga cidade grega.
+(Lat. _Mégora_)
+
+& *Mendelssohn*,
+(_Mên..._, e não *Mendélssohn*)
+Compositor alemão, filho de um philósopho que tinha o mesmo appellido.
+
+& *Mirandola*,
+(*Mirândola*, e não *Mirandóla*)
+João Pico de la Mirandola é o nome do famoso polýgrapho italiano, que aos déz annos já occupava lugar entre os melhóres oradores e poétas do seu tempo, e aos 25 annos defendia em Roma a conhecida these _De omni scibili_, sôbre a qual apresentou 900 proposições.
+
+& *Mithridates*,
+(_dá_, e não *Mithrídates*)
+Nome, de um célebre Rei do Ponto, e de vários Reis da Ásia.
+(Lat. _Mithridátes_)
+
+& *Mitridates*,
+(_dá_, e não *Mithrídates*)
+Nome, de um célebre Rei do Ponto, e de vários Reis da Ásia.
+(Lat. _Mithridátes_)
+
+& *Nêmese*,
+Deusa vingadora dos crimes, segundo a Mythologia.
+(Lat. _Nêmesis_)
+
+& *Néocles*,
+Pai de Temístocles.
+(Lat. _Néocles_)
+
+& *Neoptólemo*,
+Filho do herói grego Achilles.
+(Lat. _Neoptólemus_)
+
+& *Nictímene*,
+Personagem mythológica.
+(Lat. _Nyctímene_)
+
+& *Níobe*,
+(e não *Nióbe*)
+Personagem mythológica, filha de Tântalo.
+(Lat. _Níobe_)
+
+& *Nyctímene*,
+Personagem mythológica.
+(Lat. _Nyctímene_)
+
+& *Ômphale*,
+(e não *Onfále*)
+Segundo a Mythologia, mulhér de Hércules, o qual fiava na roca, para lhe agradar.
+(Lat. _Omphale_)
+
+& *Ônfale*,
+(e não *Onfále*)
+Segundo a Mythologia, mulhér de Hércules, o qual fiava na roca, para lhe agradar.
+(Lat. _Omphale_)
+
+& *Pátroclo*,
+Herói da guerra de Tróia, morto por Heitor.
+(Lat. _Pátroclus_)
+
+& *Péricles*,
+Célebre general e orador atheniense.
+(Lat. _Péricles_)
+
+& *Perséfona*,
+Outro nome da deusa Prosérpina.
+(Lat. _Perséphona_)
+
+& *Perséphona*,
+Outro nome da deusa Prosérpina.
+(Lat. _Perséphona_)
+
+& *Pisístrolo*,
+Tyranno de Athenas, no séc. VI antes de Christo.
+(Lat. _Pisistratus_)
+
+& *Praxíteles*,
+Célebre escultor da Grécia.
+(Lat. _Praxíteles_)
+
+& *Prosérpina*,
+Mulhér de Plutão, deus dos Infernos, segundo a Mythologia.
+(Lat. _Prosérpina_)
+
+& *Reinaldo*,
+(e não *Reynaldo*)
+Nome de homem.
+(B. lat. _Rainaldus_. Cf. Du-Cange, _Gloss._, vb. _chella_)
+
+& *Rhódope*,
+Famosa cortesan da Thrácia, em tempo de Esopo.
+(Lat. _Rhódope_)
+
+& *Ródope*,
+Famosa cortesan da Thrácia, em tempo de Esopo.
+(Lat. _Rhódope_)
+
+& *Sara*,
+(e não *Sarah*)
+Personagem bíblica, mulhér de Abrahão.
+
+& *Sardanapalo*,
+(_pá_, e não _ná_)
+Rei da Assýria.
+(Lat. _Sardanapálus_)
+
+& *Sátiro*,^2
+(e jámais *Satýro*, ou *Satíro*, como assinam indivíduos da nossa terra)
+(Lat. _Sátyrus_)
+
+& *Sátyro*,^2
+(e jámais *Satýro*, ou *Satíro*, como assinam indivíduos da nossa terra)
+(Lat. _Sátyrus_)
+
+& *Savonarola*,
+(_naró_, e não *Savonárola*)
+Célebre prègador dominicano, que foi accusado de heresia e queimado vivo em 1498.
+(N. it.)
+
+& *Sêneca*,
+Philosópho, preceptor de Nero, e filho de um rhetórico do mesmo nome.
+(Lat. _Sêneca_)
+
+& *Sísifo*,
+Personagem mythológica.
+(Lat. _Sisyphus_)
+
+& *Sísypho*,
+Personagem mythológica.
+(Lat. _Sisyphus_)
+
+& *Sófocles*,
+Grande poéta trágico da Grécia antiga.
+(Lat. _Sóphocles_)
+
+& *Sóphocles*,
+Grande poéta trágico da Grécia antiga.
+(Lat. _Sóphocles_)
+
+& *Tamerlão*,
+(e não *Tarmelan*)
+Célebre conquistador tártaro do séc. XIV.
+
+& *Temístocles*,
+Antigo general atheniense, vencedor dos Persas.
+(Lat. _Themístocles_)
+
+& *Temudo*,^2
+(e não *Themudo*)
+Appellido português.
+(De _temudo_, particípio ant. de _temer_)
+
+& *Teresa*,^2
+(e não *Theresa* nem *Thereza*)
+Nome de mulhér.
+(Na Idade-Média, _Tareja_, _Taresia_, _Teresa_, etc.)
+
+& *Themístocles*,
+Antigo general atheniense, vencedor dos Persas.
+(Lat. _Themístocles_)
+
+& *Thomás*,
+(e não *Thomaz*)
+Nome de homem.
+(Lat. _Thomas_)
+
+& *Tiago*,
+Nome de homem.--_Thiago_ é êrro crasso.
+(De _Santo Iago_ < _Sant'Iago_ < _San-Tiago_ < _Tiago_)
+
+& *Tisífone*,
+Figura mythológica, uma das Fúrias.
+(Lat. _Tisíphone_)
+
+& *Tisíphone*,
+Figura mythológica, uma das Fúrias.
+(Lat. _Tisíphone_)
+
+& *Triptólemo*,^2
+Inventor da Agricultura, segundo a Mythologia.
+(Lat. _Triptólemus_)
+
+& *Tomás*,
+(e não *Thomaz*)
+Nome de homem.
+(Lat. _Thomas_)
+
+& *Zópiro*,
+Nome de um persa, que se mutilou, para entregar Babylónia a Dario.
+(Lat. _Zópyrus_)
+
+& *Zópyro*,
+Nome de um persa, que se mutilou, para entregar Babylónia a Dario.
+(Lat. _Zópyrus_)
+

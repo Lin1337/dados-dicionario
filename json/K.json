@@ -1,0 +1,889 @@
+{
+    "dic": {
+        "head": [
+            "K"
+        ],
+        "entry": [
+            {
+                "id": [
+                    "k:1"
+                ],
+                "n": [
+                    "1"
+                ],
+                "type": [
+                    "hom"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "K"
+                        ],
+                        "phon": [
+                            {
+                                "_": "cá,capa",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nEsta letra tem sido considerada a undécima do nosso alphabeto, mas, de facto, é estranha ao abecedário português, e só deverá usar-se em certos vocábulos não aportuguesados, e em alguns vocábulos derivados de nomes próprios estrangeiros, em que ella entre, sendo todavia tolerável em _kilo_ e seus compostos, onde representa uma espécie de convenção internacional, embora destituída de base scientífica.\n"
+                        ]
+                    },
+                    {
+                        "gramGrp": [
+                            "Adj."
+                        ],
+                        "def": [
+                            "\nQue numa série occupa o undécimo lugar.--Os Latinos só empregavam o _k_ como letra numeral, que significava 250.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kabbfússia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kabbfússia"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas compostas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Kabbfuss_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kantismo"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kantismo"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nSystema philosóphico de Kant.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kantista"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kantista"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nSectário da philosophia de Kant.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kennédya"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kennédya"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas leguminosas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Kennedy_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "képi"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Képi"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            {
+                                "ref": [
+                                    {
+                                        "_": "(V. )",
+                                        "term": [
+                                            "quépi"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "képler"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Képler"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nA quarta mancha da lua.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Kepler_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kepléria"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kepléria"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de palmeiras indianas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Kepler_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kepleriano"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kepleriano"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "adj."
+                        ],
+                        "def": [
+                            "\nRelativo a Kepler.\nDiz-se especialmente das três leis de Kepler, que precederam o descobrimento da gravitação.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kera..."
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kera..."
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "pref."
+                        ],
+                        "def": [
+                            "\n(us. em algumas palavras scientíficas, mas que deve substituir-se por _cera..._)\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Gr. _keras_)",
+                        "orig": [
+                            "Gr"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kermesse"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kermesse"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nEstrangeirismo inútil, por _feira com arraial_, _bazar_.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(Fr. _kermesse_)",
+                        "orig": [
+                            "Fr"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kérria"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kérria"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas da tríbo das espíreas, originária do Japão, (_herria japonica_).\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Kerr_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "khediva"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Khediva"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            {
+                                "ref": [
+                                    {
+                                        "_": "(V. )",
+                                        "term": [
+                                            "quedive"
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "killíngia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Killíngia"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas, cyperáceas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Killing_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kilo"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kilo"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\n(e seus compostos)\n(V. _quilo_^1, etc.)\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kirganélia"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kirganélia"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nÁrvore euphorbiácea da Índia.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Kirganel_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kleínia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kleínia"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas compostas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Klein_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kneipista"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kneipista"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nSectário do systema therapêutico de Kneip.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "knóxia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Knóxia"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas rubiáceas da Índia.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Knox_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kóchia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kóchia"
+                        ],
+                        "phon": [
+                            {
+                                "_": "qui",
+                                "extent": [
+                                    "part"
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas chenopódeas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Koch_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "koeléria"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Koeléria"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas gramíneas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Koeler_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "koelreutéria"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Koelreutéria"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas sapindáceas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Koelreuter_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kólbia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kólbia"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nPlanta trepadeira da África tropical.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Kolb_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kraméria"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kraméria"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de arbustos americanos.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Kramer_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "krausista"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Krausista"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nPartidário do systema philosóphico de Krause.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kúmmel"
+                ],
+                "chaveta": [
+                    "1"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kúmmel"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "m."
+                        ],
+                        "def": [
+                            "\nLicôr doce e alcoólico, cujo gôsto particular é devido a uma infusão de sementes de cominho.\n"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kúnthia"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kúnthia"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de palmeiras dos Andes.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Kunth_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": [
+                    "kúnzea"
+                ],
+                "ast": [
+                    "1"
+                ],
+                "form": [
+                    {
+                        "orth": [
+                            "Kúnzea"
+                        ]
+                    }
+                ],
+                "sense": [
+                    {
+                        "gramGrp": [
+                            "f."
+                        ],
+                        "def": [
+                            "\nGênero de plantas myrtáceas.\n"
+                        ]
+                    }
+                ],
+                "etym": [
+                    {
+                        "_": "(De _Kunz_, n. p.)",
+                        "ori": [
+                            "nome"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
